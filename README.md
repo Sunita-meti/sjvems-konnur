@@ -1,5 +1,16 @@
-# sjvems-konnur
-SJVEMSK School – Static Website Project Description  The SJVEMSK School Static Website is designed to provide clear and accessible information about the school to students, parents, and visitors. This project focuses on presenting the school’s profile, Teacher staff, Vehicle facilities,Activities and contact information in a simple, user-friendly manner.
-The website includes essential sections such as Home, About Us, Vehicle Facilities, Activity, Teacher staff, Gallery, and Contact Us. Each page is structured to ensure easy navigation and readability. The design is fully responsive, allowing the website to function smoothly on desktops, and mobile devices.
-The static website highlights the school’s curriculum, and infrastructure, along with details about classrooms, transportation, and extracurricular activities. It also provides contact details and social media links for easy communication.
-This project is developed using HTML, CSS, and JavaScript, focusing on performance, simplicity, and clean UI design. The static nature of the website ensures fast loading speed, easy hosting, and low maintenance, making it ideal for an educational institution.
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+
+## React Compiler
+
+The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+
+## Expanding the ESLint configuration
+
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
